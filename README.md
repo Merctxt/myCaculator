@@ -29,5 +29,45 @@ Esta é uma calculadora gráfica desenvolvida em Python usando a biblioteca PyQt
 - `Calculadora.spec`: Arquivo de especificação para criar o executável.
 - `build`, `dist`, `files`: Diretórios usados durante a construção do executável.
 
+
+
 ## Como Executar
 
+1. Clone este repositório:
+   bash
+   git clone https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git
+   
+2. Navegue até a pasta do projeto:
+   bash
+   cd SEU_REPOSITORIO/calculadora_QT
+   
+3. Abra a pasta do projeto no VS Code:
+   bash
+   code .
+   
+4. Execute a aplicação a partir do arquivo `main.py`:
+   - No VS Code, abra o terminal integrado (Ctrl+`).
+   - Certifique-se de que está no ambiente virtual correto, caso esteja usando um.
+   - Execute o arquivo `main.py`:
+     bash
+     python main.py
+     
+
+## Como Construir o Executável
+
+1. Certifique-se de ter o PyInstaller instalado:
+   bash
+   pip install pyinstaller
+   
+2. Use o PyInstaller para criar o executável:
+   bash
+   pyinstaller Calculadora.spec
+   
+
+## Contribuições
+
+Contribuições são bem-vindas. Por favor, abra uma issue ou um pull request.
+
+## Licença
+
+Este projeto está licenciado sob a MIT License - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
