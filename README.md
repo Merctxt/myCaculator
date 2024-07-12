@@ -2,7 +2,7 @@
 
 Esta é uma calculadora gráfica desenvolvida em Python usando a biblioteca PyQt. O projeto inclui uma interface de usuário intuitiva e diversas funcionalidades.
 
-![Captura de Tela da Calculadora]
+[Captura de Tela da Calculadora]
 
 (https://github.com/user-attachments/assets/a6f1dd18-a6c0-4686-9e84-c9c41a1e6323)
 
