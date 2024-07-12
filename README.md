@@ -35,7 +35,7 @@ Esta é uma calculadora gráfica desenvolvida em Python usando a biblioteca PyQt
 
 1. Clone este repositório:
    bash
-   git clone https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git
+   git clone (https://github.com/Merctxt/myCaculator.git)
    
 2. Navegue até a pasta do projeto:
    bash
